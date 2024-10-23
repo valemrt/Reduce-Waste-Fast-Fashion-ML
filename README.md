@@ -1,5 +1,5 @@
 # Reduce-waste-fast-fashion
-## Master Degree in Data Analytics: capstone project
+#### Master Degree in Data Analytics: capstone project
 
 This project explores the application of data analytics to minimize waste in the fast fashion industry. By leveraging machine learning and multimodal analysis, the project aims to optimize inventory management, reduce overstocking, and contribute to more sustainable practices.
 
